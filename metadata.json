@@ -1,0 +1,6 @@
+{
+  "name": "ft_printf - 42 C Implementation & Interactive Suite",
+  "description": "Complete 42-Norm-compliant C implementation of ft_printf (libftprintf.a) covering conversions cspdiuxX%, Makefile, and Chapter V README.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
